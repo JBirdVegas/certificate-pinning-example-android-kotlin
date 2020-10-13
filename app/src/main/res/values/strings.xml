@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Certificate pinning</string>
+    <string name="next">Validate Certificates</string>
+
+    <string name="initial_domain">urip.io</string>
+    <string name="local_socket_results_label">Hashes as seen from local socket</string>
+    <string name="certist_results_label">Hashes as cert.ist sees them on the public internet</string>
+    <string name="certificate_hashes_match_label">Certificates from CertIst api and local sockets matched</string>
+    <string name="certificate_hashes_donot_match_label">Certificates from CertIst api and local sockets DO NOT matched</string>
+    <string name="domain_label">Domain:</string>
+</resources>
